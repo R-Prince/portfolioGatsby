@@ -17,9 +17,9 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpeg',
+  img: 'profileren.jpg',
   paragraphOne:
-    'Full Stack Developer who is recently qualified with a Diploma in Software Development from Code Institute. Proficient with Python, JavaScript, SQL, HTML and CSS. Possesses analytical thinking and working to strict deadlines from past experience in the Supply Chain sector. I love creating web applications from scratch using Python and JavaScript jumping back and forth from front-end to back-end. I’m an advocate of minimalist web design and development and try to implement as much as I can with my projects',
+    'I am a Full Stack Developer who has recently qualified with a Diploma in Software Development from Code Institute. I am proficient with Python, JavaScript, SQL, HTML and CSS. Analytical thinking and working to strict deadlines are a few of my strengths from past experience in the Supply Chain sector. I love creating web applications from scratch using Python and JavaScript jumping back and forth from front-end to back-end. I’m an advocate of minimalist web design and development and try to implement as much as I can with my projects.',
   paragraphTwo:
     'Currently seeking a Junior Developer role where I can showcase my existing skills and progress further.',
   paragraphThree:
